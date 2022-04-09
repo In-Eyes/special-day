@@ -25,7 +25,7 @@
   "dependencies": {
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mpvue": "^2.0.0"
   },
   "devDependencies": {
